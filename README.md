@@ -1,27 +1,29 @@
 ### Hi there 👋
 
-<table border-color:'#22272E'>
-    <tr>
+<p>
         <td><img height="20" src="https://img.shields.io/badge/Language-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=3bac3a"></td>
-        <td><img height="20" src="https://img.shields.io/badge/DataBase-MsSQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=3bac3a"> </td>
+        <td><img height="20" src="https://img.shields.io/badge/DataBase-MsSQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=3bac3a"> 
         <td><img height="20" src="https://img.shields.io/badge/HTML5-Html-informational?style=flat-square&logo=html5&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/CSS3-Css-informational?style=flat-square&logo=css3&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a"></td>
+        <td><img height="20" src="https://img.shields.io/badge/Language-Assembly-informational?style=flat-square&logo=assemblyscript&logoColor=white&color=3bac3a">
         <td><img height="20" src="https://img.shields.io/badge/µVision-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Visual_Studio-informational?style=flat-square&logo=visualstudio&logoColor=white&color=3bac3a"></td>
-        <td><img height="20" src="https://img.shields.io/badge/Language-Assembly-informational?style=flat-square&logo=assemblyscript&logoColor=white&color=3bac3a"></td>
-        
-    </tr>
+</p>
 
-</table>
 
-<table>
+<p><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p>
+    <p><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></p>
+       
+<table style="border-color:#ffff;">
     <tr>
         <td><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></td>
         <td><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></td>
         
     </tr>
 </table>
+        
+
 
 
 
