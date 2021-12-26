@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<br>
+
 👨🏽‍💻 I'm Salih, I'm on my way to becoming a full stack in web programming and keep researching and learning.
-  
+ <br> 
 ## Tech Stack :computer:
 <p>
         <td><img height="20" src="https://img.shields.io/badge/Language-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=3bac3a"></td>
@@ -13,8 +15,9 @@
         <td><img height="20" src="https://img.shields.io/badge/µVision-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Visual_Studio-informational?style=flat-square&logo=visualstudio&logoColor=white&color=3bac3a"></td>
 </p>
-
-
+<br>
+<br>
+<br>
 <p><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p>
     <p><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></p>
        
@@ -28,7 +31,7 @@
       <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=salihkoc-e&style=for-the-badge"/></a>
   </p>
 
-  <h3 align="center"> Other Accounts 📫 </h3>
+## <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
