@@ -19,8 +19,8 @@
 <br>
 <br>
 
-<p align="left"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p>
-    <p align="right"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p>
+    <p align="center"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></p>
        
 
 <p align="right">
