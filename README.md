@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table bordercolar="#22272E">
+<table border-color:#22272E>
     <tr>
         <td><img height="20" src="https://img.shields.io/badge/Language-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/DataBase-MsSQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=3bac3a"> </td>
