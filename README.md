@@ -19,19 +19,19 @@
 <br>
 <br>
 
-<p align="center"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salihkoc-e&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p><br><br>
-    <p align="center"><a href="https://github.com/salihkoc-e"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkoc-e&layout=compact&theme=buefy&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kocsalih&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p><br><br>
+    <p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocsalih&layout=compact&theme=buefy&hide_border=true" /></a></p>
     <br>
     <br>
        
 
 <p align="right">
-    <a href="https://github.com/salihkoc-e?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/salihkoc-e"/></a>
-    <a href="https://github.com/salihkoc-e?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/salihkoc-e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/salihkoc-e">
-      <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=salihkoc-e&style=for-the-badge"/></a>
+    <a href="https://github.com/kocsalih?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kocsalih"/></a>
+    <a href="https://github.com/kocsalih?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kocsalih?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/kocsalih">
+      <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kocsalih&style=for-the-badge"/></a>
   </p>
   <br>
   <br>
