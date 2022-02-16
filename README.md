@@ -7,6 +7,7 @@
 ## Tech Stack :computer:
 <p>
         <td><img height="20" src="https://img.shields.io/badge/Language-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=3bac3a"></td>
+        <td><img height="20" src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/DataBase-MsSQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=3bac3a"> 
         <td><img height="20" src="https://img.shields.io/badge/HTML5-Html-informational?style=flat-square&logo=html5&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/CSS3-Css-informational?style=flat-square&logo=css3&logoColor=white&color=3bac3a"></td>
