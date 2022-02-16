@@ -14,7 +14,6 @@
         <td><img height="20" src="https://img.shields.io/badge/CSS3-Css-informational?style=flat-square&logo=css3&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/CSS3-bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3bac3a"></td>
- <td> <p>       </p>  </td>
         <td><img height="20" src="https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Language-Assembly-informational?style=flat-square&logo=assemblyscript&logoColor=white&color=3bac3a">
         <td><img height="20" src="https://img.shields.io/badge/µVision-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=3bac3a"></td>
@@ -27,9 +26,7 @@
 <p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kocsalih&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p><br><br>
     <p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocsalih&layout=compact&theme=buefy&hide_border=true" /></a></p>
     <br>
-    <br>
-       
-
+    <br>       
 <p align="right">
     <a href="https://github.com/kocsalih?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kocsalih"/></a>
