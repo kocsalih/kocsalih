@@ -13,7 +13,8 @@
         <td><img height="20" src="https://img.shields.io/badge/HTML5-Html-informational?style=flat-square&logo=html5&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/CSS3-Css-informational?style=flat-square&logo=css3&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/CSS3-bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=3bac3a"></td>
-        <td><img height="20" src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3bac3a">&emsp</td>
+        <td><img height="20" src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3bac3a"></td>
+ <td>   </td>
         <td><img height="20" src="https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a"></td>
         <td><img height="20" src="https://img.shields.io/badge/Language-Assembly-informational?style=flat-square&logo=assemblyscript&logoColor=white&color=3bac3a">
         <td><img height="20" src="https://img.shields.io/badge/µVision-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=3bac3a"></td>
