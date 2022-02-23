@@ -22,7 +22,6 @@
 <br>
 <br>
 <br>
-
 <p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kocsalih&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Salih's github stats" /></a></p><br><br>
     <p align="center"><a href="https://github.com/kocsalih"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocsalih&layout=compact&theme=buefy&hide_border=true" /></a></p>
     <br>
@@ -37,7 +36,6 @@
   </p>
   <br>
   <br>
-
 ## <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
